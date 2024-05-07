@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif;
+    margin-inline: 20px;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+.page {
+    margin-inline: 20vw;
+}
+
+.back {
+    margin-block-end: 30px;
+    display: block;
+}
+
+h1 {
+    text-align: center;
+    margin-block-end: 50px;
+}
+
+.flex-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    gap: 20px;
+}
+
+area {
+    cursor: pointer;
+}
