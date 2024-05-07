@@ -26,10 +26,6 @@ h1 {
     gap: 20px;
 }
 
-area {
-    cursor: pointer;
-}
-
 footer {
     display: flex;
     align-items: center;
